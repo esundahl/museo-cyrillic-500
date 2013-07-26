@@ -1,0 +1,24 @@
+{
+  "name": "museo-cyrillic-500",
+  "repo": "esundahl/museo-cyrillic-500",
+  "description": "Museo Cyrillic 500 Font Component",
+  "version": "0.0.1",
+  "keywords": [
+    "font",
+    "museo",
+    "cyrillic",
+    "500"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-cyrillic-500.css"
+  ],
+  "fonts": [
+    "fonts/museocyrl_500-webfont.eot",
+    "fonts/museocyrl_500-webfont.svg",
+    "fonts/museocyrl_500-webfont.ttf",
+    "fonts/museocyrl_500-webfont.woff",
+  ]
+}
